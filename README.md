@@ -2,7 +2,7 @@
  
 Finds given patch images in the bigger image using OpenCV - Brisk Feature Detector. Uses Brute-Force matcher to match image descriptors. 
  
-Run main.py by passing 'main_image' and 'patch_image' filenames as arguments. Images should be placed in the 'Images' directory. Output images are saved in the 'Output' folder with corresponding input image name. 
+Run main.py by passing 'main_image' and 'patch_image' filenames as arguments. Images should be placed in the 'Images' directory. Output images are saved in the 'Output' folder with corresponding input image name. Corner points are printed after code execution. 
 
 Examples:
 
