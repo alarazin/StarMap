@@ -34,3 +34,6 @@ Corner points:
  [[630 692]]
 
  [[553 560]]]
+
+
+Can also run in Colab notebook: cv_test.ipynb (place images in the current working directory) 
