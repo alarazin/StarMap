@@ -4,6 +4,8 @@ Finds given patch images in the bigger image using OpenCV - Brisk Feature Detect
  
 Run main.py by passing 'main_image' and 'patch_image' filenames as arguments. Images should be placed in the 'Images' directory. Output images are saved in the 'Output' folder with corresponding input image name. Corner points are printed after code execution. 
 
+You can also run it in Colab or Jupyter Notebook: cv_test.ipynb (place images in the current working directory) 
+
 Examples:
 
     $ python main.py --main_image='StarMap.png' --patch_image='Small_area.png'
@@ -36,4 +38,4 @@ Corner points:
  [[553 560]]]
 
 
-Can also run in Colab notebook: cv_test.ipynb (place images in the current working directory) 
+
